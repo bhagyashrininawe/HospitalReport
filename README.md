@@ -75,5 +75,23 @@ A fully interactive **Excel-based Hospital Dashboard** designed to analyze patie
 2. Keep both files in the **same folder**.  
 3. Open the Excel dashboard.  
 4. Refresh Pivot Tables if needed.  
-5. Explore insights using slicers & charts.  
- 
+5. Explore insights using slicers & charts.
+
+
+## 📁 Recommended Folder Structure
+ Hospital-Dashboard/
+│── Dashbord P.xlsx
+│── Hospital Data.csv
+└── README.md
+
+
+## 🚀 Future Improvements
+- Add Power BI version of the dashboard  
+- Automate daily or weekly data refresh  
+- Add a patient forecasting model  
+- Create department-level dashboards  
+
+
+##  Created By  
+**Bhagyashri Ninawe**  
+Excel • Dashboard Design  
